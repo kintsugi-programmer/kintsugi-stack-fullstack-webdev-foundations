@@ -1,6 +1,19 @@
 # kintsugi-stack-fullstack-webdev-foundations
-## Resources
-- [The Odin Project](https://www.theodinproject.com/)
+
+> Frontend is pain, backend is pain… but full-stack? That's premium pain.
+
+- Author: [Kintsugi-Programmer](https://github.com/kintsugi-programmer)
+
+![alt text](image.png)
+
+> Disclaimer: The content presented here is a curated blend of my personal learning journey, experiences, open-source documentation, and invaluable knowledge gained from diverse sources. I do not claim sole ownership over all the material; this is a community-driven effort to learn, share, and grow together.
+
+## Table of Contents
+- [kintsugi-stack-fullstack-webdev-foundations](#kintsugi-stack-fullstack-webdev-foundations)
+  - [Table of Contents](#table-of-contents)
+  - [Working](#working)
+  - [Introduction to Web Development](#introduction-to-web-development)
+  - [Resources](#resources)
 
 ## Working
 - zero to a full-stack developer.
@@ -89,3 +102,13 @@
     - https://git-scm.com/
   - GitHub
     - https://github.com/
+
+## Resources
+- [The Odin Project](https://www.theodinproject.com/)
+
+---
+End-of-File
+
+The [KintsugiStack](https://github.com/kintsugi-programmer/KintsugiStack) repository, authored by Kintsugi-Programmer, is less a comprehensive resource and more an Artifact of Continuous Research and Deep Inquiry into Computer Science and Software Engineering. It serves as a transparent ledger of the author's relentless pursuit of mastery, from the foundational algorithms to modern full-stack implementation.
+
+> Made with 💚 [Kintsugi-Programmer](https://github.com/kintsugi-programmer)
