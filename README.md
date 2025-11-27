@@ -20,7 +20,7 @@
 - After completing the course you will be in a position where you can simply jump straight into the documentation for anything you are trying to learn. Reading the documentation is the best way to learn any tooling.  
 - The skills you will gain from completing This Repo will be the foundation that you will be building upon for years and decades to come. 
 - If you come out of the course thinking that you need another course like this one to learn something like Python, then you either don’t believe in yourself or you haven’t taken away the important ideas that are covered in this course.
-- The last lesson of this course will give you an opportunity to choose between a Full Stack JavaScript and Full Stack Rails path, both designed to further develop the foundation established in this course.
+- The last lesson of this course of [The Odin Project](https://www.theodinproject.com/),It will give you an opportunity to choose between a Full Stack JavaScript and Full Stack Rails path, both designed to further develop the foundation established in this course.
 - maintained by professionals
   - We have chosen some of the best resources available  
   - If there are no good resources, we write our own.
@@ -30,3 +30,62 @@
 - We've built an in-depth curriculum designed to take you 100% of the way to becoming a web developer. Many other resources out there teach you just the basics of programming. With This Repo, you'll create your own websites, games, and social media sites.
 - The goal of This Repo is to provide a complete path for students to go from zero programming knowledge to employed as web developers while working with other students and picking up the skills to become self sufficient along the way.
 - We don't provide a certificate for course completion. Employers will be much more impressed with your amazing personal portfolio of projects, many of which you'll hopefully have built with inspiration from This Repo.
+
+## Introduction to Web Development
+
+- What do web developers do? In short, they build and maintain websites.
+- Web developers often work for clients who are trying to get their product or service onto the web. 
+- The work is typically project-focused and involves collaborating with a team to coordinate the client’s needs into the end product. 
+- The client could be a tech company, an organization, or a government. 
+- The work could involve front-end, back-end, or full-stack web development.
+  - The front end is the stuff you see on the website in your browser, including the presentation of content and user interface elements like the navigation bar. 
+    - Front-end developers use HTML, CSS, JavaScript, and their relevant frameworks to ensure that content is presented effectively and that users have an excellent experience.
+  - The back end refers to the guts of the application, which live on the server. 
+    - The back end stores and serves program data to ensure that the front end has what it needs. 
+    - This process can become very complicated when a website has millions of users. 
+    - Back-end developers use programming languages like Java, Python, Ruby, and JavaScript to work with data.
+  - Full-stack developers are comfortable working with both the front and back ends. 
+    - At This Repo, we focus on teaching you full-stack development, covering all aspects of web development.
+
+- Types of careers
+  - Large tech companies, 
+    - such as Google, Meta, and Amazon, 
+    - have very stringent hiring requirements. 
+    - If you successfully meet these expectations, they offer excellent pay, benefits, and opportunities.
+  - Startups 
+    - are a bit like the wild west. 
+    - For a junior developer, it can feel like a trial by fire because of the pace of development. 
+    - Startups often offer slightly lower salaries and require longer hours, 
+    - but they may also offer equity in the company and highly unique environments.
+  - As a freelancer, 
+    - you could command a strong hourly wage and 
+    - the freedom to schedule and 
+    - design your own products. 
+    - However, you would be responsible 
+      - for getting your own work (which means less coding time), 
+      - managing billing from clients (which can be difficult), and 
+      - being solely responsible. 
+      - Strong people skills are necessary for this path.
+  - As a consultant for a web consultancy, 
+    - you would give up some of your freelancing wage potential but be 
+    - able to focus more on the code and less on the hustle. 
+    - This option also provides a good work-life balance and pay.
+  - Large older companies 
+    - still need web developers. 
+    - These companies offer a good work-life balance, pay, and benefits but 
+    - often move slower than a company that is highly focused on tech.
+
+- Tools of the trade
+  - Computer
+  - Google
+    - google.com
+  - Text Editor
+    - https://en.wikipedia.org/wiki/Text_editor
+  - Command Line Interface (CLI)
+    - https://en.wikipedia.org/wiki/Command-line_interface
+  - Stack Overflow
+    - http://stackoverflow.com/
+  - Git
+    - https://git-scm.com/
+  - GitHub
+    - https://github.com/
